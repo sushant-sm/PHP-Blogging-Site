@@ -1,2 +1,9 @@
 # PHP-Blogging-Site
-This is Simple and User friendly Blogging Site developed using PHP. In This site User can read all other users posts and can add, read, update and delete his own posts. Admin has access to Reports and all the other information. Admin has control on all the users and posts.
+
+Instruction to Run the Project - 
+1) Download the project
+2) Paste it to C:\xampp\htdocs\{project_name}
+3) Create database named "cms"
+4) Import cms.sql into database 
+5) Open browser and type the URL localhost/{project_name}
+6) And Done
